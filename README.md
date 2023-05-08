@@ -23,7 +23,7 @@ Link to video demo:
 https://drive.google.com/file/d/1WkdqriVMZ2PNI_m6ivvZERTArnd24Lh6/view
 
 Link to GitHub repository: 
-git@github.com:hutgib2/Challenge-12-Employee-Trackers.git
+https://github.com/hutgib2/Challenge-12-Employee-Trackers
 
 ## License
 
