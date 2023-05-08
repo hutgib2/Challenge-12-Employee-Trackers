@@ -8,20 +8,22 @@ This Project is for tracking employees in order to organize and plan your busine
 
 The application uses MySql, inquirer, and node. To install the necessary dependencies, run the following command:
 
-```TODO
+```
+npm install
+```
 
 ## Usage
 
-```TODO
-
+```
+node index.js
+```
 ## Links to project
-TODO
 
 Link to video demo: 
 https://drive.google.com/file/d/1WkdqriVMZ2PNI_m6ivvZERTArnd24Lh6/view
 
 Link to GitHub repository: 
-
+git@github.com:hutgib2/Challenge-12-Employee-Trackers.git
 
 ## License
 
